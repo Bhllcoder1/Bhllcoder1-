@@ -1,5 +1,7 @@
 # Bhllcoder1-
-Behlül Bera Anik — Bilgisayar Mühendisliği Öğrencisi | Görüntü İşleme • Python (NumPy, Keras, PyTorch) • Docker • C |
+Behlül Bera Anik 
+Bilgisayar Mühendisliği Öğrencisi 
+| Görüntü İşleme • Python (NumPy, Keras, PyTorch) • Docker • C |
 ![Topluluk Rozeti](https://img.shields.io/badge/Student-Computer%20Engineering-blue) ![Tech](https://img.shields.io/badge/Python-%20NumPy%20%7C%20Keras%20%7C%20PyTorch-3776AB) ![Docker](https://img.shields.io/badge/Docker-%20Containers-2496ED)
 
 Merhaba. Görüntü işleme, makine öğrenmesi ve Python ile prototip geliştirmeye ilgi duyuyorum. C dili ile temel seviye programlama yapabiliyorum; Java ve ileri Python konularını öğreniyorum. Basit seviye frontend bilgim var.
