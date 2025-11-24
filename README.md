@@ -4,7 +4,7 @@ Behlül Bera Anik — Bilgisayar Mühendisliği Öğrencisi | Görüntü İşlem
 
 Merhaba. Görüntü işleme, makine öğrenmesi ve Python ile prototip geliştirmeye ilgi duyuyorum. C dili ile temel seviye programlama yapabiliyorum; Java ve ileri Python konularını öğreniyorum. Basit seviye frontend bilgim var.
 
-     Öne çıkan deneyimler:
+Öne çıkan deneyimler:
 
 Teknofest — SELÇUKLU GM Karayel takımı
 
@@ -19,7 +19,6 @@ Teknofest — SELÇUKLU GM Karayel takımı
  ML / Görüntü İşleme: NumPy, Keras, PyTorch
  Diğer: Docker, HTML/CSS/JS (frontend temel)
  
-     Projeler (kısa)
-     
- Teknofest dokümantasyon & ekip çalışması — SELÇUKLU GM Karayel 
+ Projeler (kısa)
+Teknofest dokümantasyon & ekip çalışması — SELÇUKLU GM Karayel 
  NASA Space Apps — 2 web sitesi (oyun + etkileşimli içerik)
